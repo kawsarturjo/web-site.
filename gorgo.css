@@ -1,0 +1,66 @@
+/*commom start*/
+
+body{
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+}
+
+/*common end*/
+
+/*header start*/
+
+header{}
+
+.wrapper{
+	width: 70%;
+	margin: 0 auto;
+
+}
+
+.logo{
+	float: left;
+
+}
+
+.logo img{
+	width: 100%;
+}
+
+.menu{}
+
+.menu ul{}
+
+.menu-1 a{
+	    margin: 0px 0px 0px 84px;
+}
+.menu-2 a{
+	    margin: 0px 0px 0px 37px;
+}
+
+.menu ul li{
+	list-style: none;
+	float: left;
+	margin: 10px 0px;
+}
+
+.menu ul li a{
+	text-decoration: none;
+	color: #2e2b45;
+}
+.button{
+	float: right;
+}
+
+.button button{
+	padding: 13px;
+	border: none;
+	background-color: #ff6162;
+	border-radius: 4px;
+}
+.button button a{
+text-decoration: none;
+color: white;
+font-weight: bold;
+}
+/*header end*/
